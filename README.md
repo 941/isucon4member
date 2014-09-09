@@ -21,4 +21,5 @@ https://idobata.io/#/organization/isucon4member
 ↓
 
 チーム構成が決まったらIssueをさげ、オンライン予選登録へ申し込んでください。
+
 <a href="http://isucon.net/archives/39979344.html">ISUCON4(2014) オンライン予選レギュレーション : ISUCON公式Blog</a>
