@@ -13,6 +13,10 @@ https://github.com/941/isucon4/issues/new
 
 ↓ 
 
+メンバー募集中のリストはこちら  
+https://github.com/941/isucon4member/issues
+
+↓ 
 
 idobataの「ISUCON4メンバー募集」に入り相談してチームメンバーを決めてください。
 https://idobata.io/#/organization/isucon4member
