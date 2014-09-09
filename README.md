@@ -15,6 +15,8 @@ https://github.com/941/isucon4/issues/new
 - ISUCON参加経験の有無（有なら詳細を記入）
 
 
+記入例はこちら https://github.com/941/isucon4member/issues/1
+
 ↓ 
 
 メンバー募集中のリストはこちら  
