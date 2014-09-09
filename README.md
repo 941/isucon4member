@@ -32,4 +32,4 @@ https://idobata.io/#/organization/isucon4member
 <a href="http://isucon.net/archives/39979344.html">ISUCON4(2014) オンライン予選レギュレーション : ISUCON公式Blog</a>
 
 
-チームメンバー間でのやりとりはTwitterでフォローしあったりするなどして連絡をとりあってください。ISUCON運営ではチームメンバー間のトラブル等は関知いたしませんのでご了承ください。質問などはTwitterの @941 までご連絡ください。
+チームメンバー間でのやりとりはTwitterでフォローしあったりするなどして連絡をとりあってください。<b>ISUCON運営ではチームメンバー間のトラブル等は関知いたしませんのでご了承ください。質問などはTwitterの @941 までご連絡ください。</b>
