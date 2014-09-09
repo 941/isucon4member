@@ -11,6 +11,9 @@ ISUCON4のメンバー募集用です。
 - 担当分野
 - 予選参加日（27,28,どちらでも）
 
+https://github.com/941/isucon4/issues/new
+ 
+
 idobataの「ISUCON4メンバー募集」に入り相談してチームメンバーを決めてください。
 https://idobata.io/#/organization/isucon4member
 
